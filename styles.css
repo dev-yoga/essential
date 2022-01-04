@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+p {
+    color: white;
+}
+
+li {
+    list-style-type: none;
+    color: white;
+}
+
